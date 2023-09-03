@@ -1,5 +1,7 @@
 ## **Pandemic Data Analysis and Visualization Tool**
 
+- 🌐 **Offline Experience:** Enhanced with Progressive Web App (PWA) functionality for seamless use, even when offline.
+
 - 🌍 **Comprehensive Data:** Real-time tracking of global COVID-19 cases, recoveries, deaths, and new cases.
 
 - 📊 **Visual Insights:** Engage users with dynamic charts, graphs, and an intuitive world map.
